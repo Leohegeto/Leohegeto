@@ -34,7 +34,7 @@
 
 ### 📫 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardohegeto)  
-[![E-mail](https://img.shields.io/badge/-Email-yellow?style=flat&logo=gmail&logoColor=white)](mailto: Leohegeto3@gil.comm)  
+[![E-mail](https://img.shields.io/badge/-Email-yellow?style=flat&logo=gmail&logoColor=white)](mailto:leohegeto3@gmail.com)  
 
 ---
 
